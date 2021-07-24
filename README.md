@@ -47,3 +47,4 @@ question][] for a good example.
 [sanitize]: https://www.quora.com/What-exactly-is-data-sanitization-with-respect-to-SQL-injection
 [parameterize]: https://stackoverflow.com/questions/4712037/what-is-parameterized-query
 [Stack Overflow question]: http://stackoverflow.com/questions/13462112/inserting-ruby-string-into-sqlite
+# Phase3PokemonScraper
